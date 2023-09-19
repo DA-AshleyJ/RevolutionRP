@@ -1,0 +1,22 @@
+body {
+    background-color: #1e1e1e;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.welcome-container {
+    margin: 20% auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    width: 60%;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 24px;
+}
